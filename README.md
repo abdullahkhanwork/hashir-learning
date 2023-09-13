@@ -15,3 +15,4 @@
 ```
 - Make sure to use controller
 - Verify that the response is in correct formate by visiting the api in browser
+- Push the code to this repository
