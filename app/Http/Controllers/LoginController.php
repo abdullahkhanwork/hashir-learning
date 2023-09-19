@@ -26,5 +26,8 @@ class LoginController extends Controller
     //  $user=User::get();
     //    return $user->json();
    }
+   public function show(){
+      return User::all();
+   }
  
 }
